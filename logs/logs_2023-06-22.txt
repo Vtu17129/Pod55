@@ -1,0 +1,72 @@
+Log Entry: 22-06-2023 00:03:13
+Application: App1
+LogLevel: Error information 1
+Message: An error occurred part 3
+----------------------------------
+Log Entry: 22-06-2023 00:03:45
+Application: App1
+LogLevel: Error information 1
+Message: An error occurred part 3
+----------------------------------
+Log Entry: 22-06-2023 10:13:16
+Application: App1
+LogLevel: Error information 1
+Message: An error occurred part 3
+----------------------------------
+Log Entry: 22-06-2023 10:19:19
+Application: App1
+LogLevel: Error information 1
+Message: An error occurred part 3
+----------------------------------
+Log Entry: 22-06-2023 10:27:05
+Application: App 3
+LogLevel: Error information 232
+Message: An error occurred part 322
+----------------------------------
+Log Entry: 22-06-2023 10:38:08
+Application: App 3
+LogLevel: Error information 232 dhshdkahk
+Message: An error occurred part 322 djsalakjdasl
+----------------------------------
+Log Entry: 22-06-2023 15:44:39
+Application: App 3
+LogLevel: Error information 232 dhshdkahk
+Message: An error occurred part 322 djsalakjdasl
+Serverity: An error occurred part 322 djsalakjdasl
+HostName: NewHost
+Associated Id: 3213
+Technology: dsadas
+ModuleName: dasfaasasf
+FeatureName: dasfasfag
+ClassName: somename class
+ErrorCode: 432532
+Error Message: Some error message
+----------------------------------
+Log Entry: 22-06-2023 15:45:57
+Application: App3
+LogLevel: Error in432532te fdsgjdslj formation 232 dhshdkahk
+Message: An error occ fsfs urred part 322 djsalakjdasl
+Serverity: An error occ fsfs urred part 322 djsalakjdasl
+HostName: NewHost
+Associated Id: 32135
+Technology: dsadas
+ModuleName: dasfaasasf
+FeatureName: dasfasfag
+ClassName: somename class
+ErrorCode: 432532
+Error Message: Some error message
+----------------------------------
+Log Entry: 22-06-2023 15:51:02
+Application: App3
+LogLevel: Error in432532te fdsgjdslj formation 232 dhshdkahk
+Message: An error occ fsfs urred part 322 djsalakjdasl
+Serverity: An error occ fsfs urred part 322 djsalakjdasl
+HostName: NewHost
+Associated Id: 32135
+Technology: dsadas
+ModuleName: dasfaasasf
+FeatureName: dasfasfag
+ClassName: somename class
+ErrorCode: 432532
+Error Message: Some error message
+----------------------------------

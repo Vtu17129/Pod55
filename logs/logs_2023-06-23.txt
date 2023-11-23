@@ -1,0 +1,56 @@
+Log Entry: 23-06-2023 10:47:13
+Application: App 3
+LogLevel: Error information 232 dhshdkahk
+Message: An error occurred part 322 djsalakjdasl
+Serverity: An error occurred part 322 djsalakjdasl
+HostName: NewHost
+Associated Id: 3213
+Technology: dsadas
+ModuleName: dasfaasasf
+FeatureName: dasfasfag
+ClassName: somename class
+ErrorCode: 432532
+Error Message: Some error message
+----------------------------------
+Log Entry: 23-06-2023 11:07:04
+Application: App 3
+LogLevel: Error information 232 dhshdkahk
+Message: An error occurred part 322 djsalakjdasl
+Serverity: An error occurred part 322 djsalakjdasl
+HostName: NewHost
+Associated Id: 3213
+Technology: dsadas
+ModuleName: dasfaasasf
+FeatureName: dasfasfag
+ClassName: somename class
+ErrorCode: 432532
+Error Message: Some error message
+----------------------------------
+Log Entry: 23-06-2023 11:40:28
+Application: App 3
+LogLevel: Error information 232 dhshdkahk
+Message: An error occurred part 322 djsalakjdasl
+Serverity: An error occurred part 322 djsalakjdasl
+HostName: NewHost
+Associated Id: 3213
+Technology: dsadas
+ModuleName: dasfaasasf
+FeatureName: dasfasfag
+ClassName: somename class
+ErrorCode: 432532
+Error Message: Some error message
+----------------------------------
+Log Entry: 23-06-2023 12:03:56
+Application: App 3
+LogLevel: Error information 232 dhshdkahk
+Message: An error occurred part 322 djsalakjdasl
+Serverity: An error occurred part 322 djsalakjdasl
+HostName: NewHost
+Associated Id: 3213
+Technology: dsadas
+ModuleName: dasfaasasf
+FeatureName: dasfasfag
+ClassName: somename class
+ErrorCode: 432532
+Error Message: this is final demo
+----------------------------------

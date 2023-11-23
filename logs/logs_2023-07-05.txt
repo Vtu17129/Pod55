@@ -1,0 +1,12 @@
+Log Entry: 05-07-2023 18:49:27
+LogLevel: Error
+Serverity: High
+HostName: NewHost
+Associated Id: AEF123
+Technology: DotNet
+ModuleName: Module 12345
+FeatureName: Feature 333333
+ClassName: httpclient.model.Testlog
+ErrorCode: AE2221
+Error Message: Some error message
+----------------------------------
